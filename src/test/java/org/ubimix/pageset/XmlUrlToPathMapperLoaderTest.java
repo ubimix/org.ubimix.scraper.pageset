@@ -1,14 +1,14 @@
-package org.webreformatter.pageset;
+package org.ubimix.pageset;
 
 import java.io.IOException;
 
 import junit.framework.TestCase;
 
-import org.webreformatter.commons.uri.Uri;
-import org.webreformatter.commons.xml.XmlException;
-import org.webreformatter.commons.xml.XmlWrapper;
-import org.webreformatter.commons.xml.XmlWrapper.XmlContext;
-import org.webreformatter.pageset.loaders.XmlUrlToPathMapperLoader;
+import org.ubimix.commons.uri.Uri;
+import org.ubimix.commons.xml.XmlException;
+import org.ubimix.commons.xml.XmlWrapper;
+import org.ubimix.commons.xml.XmlWrapper.XmlContext;
+import org.ubimix.pageset.loaders.XmlUrlToPathMapperLoader;
 
 public class XmlUrlToPathMapperLoaderTest extends TestCase {
 

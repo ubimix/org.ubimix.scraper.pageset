@@ -1,13 +1,13 @@
-package org.webreformatter.pageset;
+package org.ubimix.pageset;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import org.webreformatter.commons.uri.Path;
-import org.webreformatter.commons.uri.Uri;
-import org.webreformatter.commons.uri.path.PathManager;
+import org.ubimix.commons.uri.Path;
+import org.ubimix.commons.uri.Uri;
+import org.ubimix.commons.uri.path.PathManager;
 
 /**
  * This class is used to translate absolute URIs to local paths vice versa -

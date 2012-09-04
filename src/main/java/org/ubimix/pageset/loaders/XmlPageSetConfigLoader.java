@@ -1,11 +1,11 @@
-package org.webreformatter.pageset.loaders;
+package org.ubimix.pageset.loaders;
 
-import org.webreformatter.commons.uri.Uri;
-import org.webreformatter.commons.xml.XmlException;
-import org.webreformatter.commons.xml.XmlWrapper;
-import org.webreformatter.pageset.IUrlTransformer;
-import org.webreformatter.pageset.PageSetConfig;
-import org.webreformatter.pageset.UrlToPathMapper;
+import org.ubimix.commons.uri.Uri;
+import org.ubimix.commons.xml.XmlException;
+import org.ubimix.commons.xml.XmlWrapper;
+import org.ubimix.pageset.IUrlTransformer;
+import org.ubimix.pageset.PageSetConfig;
+import org.ubimix.pageset.UrlToPathMapper;
 
 /**
  * This class is used to configure {@link CompositeSiteConfig} instances using

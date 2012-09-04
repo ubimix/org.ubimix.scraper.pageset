@@ -1,11 +1,11 @@
 /**
  * 
  */
-package org.webreformatter.pageset.loaders;
+package org.ubimix.pageset.loaders;
 
-import org.webreformatter.commons.uri.Uri;
-import org.webreformatter.commons.xml.XmlException;
-import org.webreformatter.commons.xml.XmlWrapper;
+import org.ubimix.commons.uri.Uri;
+import org.ubimix.commons.xml.XmlException;
+import org.ubimix.commons.xml.XmlWrapper;
 
 /**
  * @author kotelnikov

@@ -1,7 +1,7 @@
 /**
  * 
  */
-package org.webreformatter.pageset;
+package org.ubimix.pageset;
 
 /**
  * This configuration class contains the following information:

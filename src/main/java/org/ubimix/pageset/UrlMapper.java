@@ -1,15 +1,15 @@
 /**
  * 
  */
-package org.webreformatter.pageset;
+package org.ubimix.pageset;
 
 import java.util.HashMap;
 import java.util.Map;
 
-import org.webreformatter.commons.uri.Path;
-import org.webreformatter.commons.uri.Uri;
-import org.webreformatter.commons.uri.UriToPath;
-import org.webreformatter.commons.uri.path.PathManager;
+import org.ubimix.commons.uri.Path;
+import org.ubimix.commons.uri.Uri;
+import org.ubimix.commons.uri.UriToPath;
+import org.ubimix.commons.uri.path.PathManager;
 
 /**
  * @author kotelnikov
@@ -28,8 +28,8 @@ public class UrlMapper implements IUrlMapper {
     }
 
     /**
-     * @see org.webreformatter.pageset.IUrlMapper#getUrl(java.lang.String,
-     *      org.webreformatter.commons.uri.Uri)
+     * @see org.ubimix.pageset.IUrlMapper#getUrl(java.lang.String,
+     *      org.ubimix.commons.uri.Uri)
      */
     public Uri getUrl(String type, Uri baseUrl) {
         PathManager<Uri> pathManager = fPathManagers.get(type);

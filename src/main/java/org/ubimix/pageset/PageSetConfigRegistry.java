@@ -1,7 +1,7 @@
 /**
  * 
  */
-package org.webreformatter.pageset;
+package org.ubimix.pageset;
 
 import java.util.HashMap;
 import java.util.Map;

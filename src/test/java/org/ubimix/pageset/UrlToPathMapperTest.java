@@ -1,12 +1,12 @@
 /**
  * 
  */
-package org.webreformatter.pageset;
+package org.ubimix.pageset;
 
 import junit.framework.TestCase;
 
-import org.webreformatter.commons.uri.Uri;
-import org.webreformatter.pageset.UrlToPathMapper.SiteUrlMapper;
+import org.ubimix.commons.uri.Uri;
+import org.ubimix.pageset.UrlToPathMapper.SiteUrlMapper;
 
 /**
  * @author cognium

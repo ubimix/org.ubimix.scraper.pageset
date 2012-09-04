@@ -1,12 +1,12 @@
 /**
  * 
  */
-package org.webreformatter.pageset;
+package org.ubimix.pageset;
 
 import java.util.List;
 import java.util.concurrent.CopyOnWriteArrayList;
 
-import org.webreformatter.commons.uri.Uri;
+import org.ubimix.commons.uri.Uri;
 
 /**
  * @author kotelnikov
@@ -26,8 +26,8 @@ public class CompositeUriMapper implements IUrlMapper {
     }
 
     /**
-     * @see org.webreformatter.pageset.IUrlMapper#getUrl(java.lang.String,
-     *      org.webreformatter.commons.uri.Uri)
+     * @see org.ubimix.pageset.IUrlMapper#getUrl(java.lang.String,
+     *      org.ubimix.commons.uri.Uri)
      */
     public Uri getUrl(String type, Uri uri) {
         Uri result = null;

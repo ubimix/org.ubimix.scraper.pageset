@@ -1,6 +1,6 @@
-package org.webreformatter.pageset;
+package org.ubimix.pageset;
 
-import org.webreformatter.commons.uri.Uri;
+import org.ubimix.commons.uri.Uri;
 
 /**
  * @author kotelnikov
