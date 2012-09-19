@@ -7,8 +7,8 @@
         <artifactId>org.ubimix.poms.bundle</artifactId>
         <version>1.2.1</version>
     </parent>
-    <groupId>org.ubimix.scrapper</groupId>
-    <artifactId>org.ubimix.scrapper.pageset</artifactId>
+    <groupId>org.ubimix.scraper</groupId>
+    <artifactId>org.ubimix.scraper.pageset</artifactId>
     <version>1.2.1</version>
     <packaging>bundle</packaging>
     <name>${project.artifactId}</name>
